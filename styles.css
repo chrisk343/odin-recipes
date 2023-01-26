@@ -2,3 +2,13 @@
     height: auto;
     width: 400px;
 }
+
+p, ol, ul {
+    color: darkslategray;
+    background-color: tan;
+}
+
+h1, h2 {
+    color: grey;
+    background-color: lightyellow;
+}
